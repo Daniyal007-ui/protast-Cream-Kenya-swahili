@@ -66,7 +66,7 @@ export default function Hero() {
                 *Maisha ya kutofautiana kati ya mume na mke..
                 </p>
 
-                <Link href={'https://wa.me/qr/AR43EYIELKAZL1'} className={buttonVariants({ variant: "outline" })}><FaWhatsapp />Customer Support</Link>
+                <Link href={'https://wa.me/message/GUTC3CMZFWAAK1'} className={buttonVariants({ variant: "outline" })}><FaWhatsapp />Customer Support</Link>
 
             </div>
 
